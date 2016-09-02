@@ -1,7 +1,9 @@
 #Git hooks management tool
 
-###pod hooks list
-###pod hooks sync HOOKS_DIR
-###pod hooks install hook-name
-###pod hooks uninstall hook-name
-###pod hooks open hook-name
+```shell
+pod hooks list
+pod hooks sync HOOKS_DIR
+pod hooks install HOOK_NAME
+pod hooks uninstall HOOK_NAME
+pod hooks open HOOK_NAME
+```
